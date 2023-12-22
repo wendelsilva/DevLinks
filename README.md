@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um poderoso agregador de links projetado para ser o seu cartão de visitas online. Simplificando o processo de compartilhamento, o DevLinks permite que você apresente seus principais recursos online de maneira organizada e acessível.
 
-- [Acesse o projeto finalizado, online](https://wendelsilva.github.io/DevLinks)
+- [Acesse o projeto finalizado, online](https://wendelsilva.github.io/DevLinks){:target="_blank"}
 
 ## 🔖 Layout
 
