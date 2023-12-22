@@ -24,10 +24,10 @@ O DevLinks é uma plataforma simples e intuitiva para organizar e compartilhar s
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--[ ] HTML e CSS
--[ ] JavaScript
--[ ] Git e Github
--[ ] Figma
+- [ ] HTML e CSS
+- [ ] JavaScript
+- [ ] Git e Github
+- [ ] Figma
 
 ## 💻 Projeto
 
