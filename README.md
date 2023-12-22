@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-O DevLinks é uma plataforma simples e intuitiva para organizar e compartilhar seus links favoritos. Inspirado pelo conceito do Linktree, o DevLinks oferece uma maneira elegante e eficiente de apresentar suas principais referências online em um único lugar. <br/>
+O DevLinks é agregador de links simples e intuitivo para organizar e compartilhar seus links favoritos. Inspirado pelo conceito do Linktree, o DevLinks oferece uma maneira elegante e eficiente de apresentar suas principais referências online em um único lugar. <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
