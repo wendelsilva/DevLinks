@@ -16,8 +16,9 @@ O DevLinks é agregador de links simples e intuitivo para organizar e compartilh
 
 <br>
 
+
 <p align="center">
-  <img alt="projeto DevLinks" src="https://github.com/wendelsilva/devlinks-1/raw/main/.github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="https://github.com/wendelsilva/DevLinks/blob/main/assets/devlinks-cover.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
